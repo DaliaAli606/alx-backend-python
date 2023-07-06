@@ -1,7 +1,4 @@
-# Concepts
-For this project, we expect you to look at this concept:
 
-+ {Advanced Python](https://intranet.alxswe.com/concepts/554)
 This project contains tasks for learning to use variable/type annotations in Python 3.
 Resources
 Read or watch:
