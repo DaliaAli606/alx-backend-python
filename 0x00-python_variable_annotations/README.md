@@ -1,6 +1,11 @@
 # Variable (Type) Annotations
 
 This project contains tasks for learning to use variable/type annotations in Python 3.
+Resources
+Read or watch:
+
+[Python 3 typing documentation] (https://docs.python.org/3/library/typing.html)
+MyPy cheat sheet
 
 ## Tasks To Complete
 
